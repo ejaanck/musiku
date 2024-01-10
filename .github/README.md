@@ -6,7 +6,7 @@
 
 
     
-# YUKKI REXA
+# 𝗖𝗔𝗔 𝗫 𝗬𝗨𝗞𝗞𝗜
 
 <details>
 <summary><b>🚀 CONFIG VARS </b></summary>
