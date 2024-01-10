@@ -1,7 +1,7 @@
 {
-    "name": "Xa Yukki",
+    "name": "Caa x Yukki",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
+    "logo": "https://telegra.ph//file/53a66948684923a87f92d.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -69,7 +69,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Rexashh/YukkiRexa",
+        "value": "https://github.com/ejaanck/musiku",
         "required": true
       },
       "UPSTREAM_BRANCH": {
