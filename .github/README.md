@@ -1,4 +1,4 @@
-![](https://github.com/Rexashh/YukkiRexa/blob/master/d958bb05418639f7ebe67755900f5ad0.gif)
+![](https://telegra.ph//file/53a66948684923a87f92d.jpg)
 
 <h4 align="center">
      BASE REPO YUKKI MUSIC BOT SAYA HANYA CLONING, MERUBAH / ATAU MENAMBAH BAHASA INDONESIA SUNDA, JAWA, & TOXIC
@@ -28,7 +28,7 @@
 
 ### ʜᴇʀᴏᴋᴜ   
 - klik tombol dibawah untuk deploy via Heroku :
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/ejaanck/musiku/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="150""/></a></p>  
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/ejaanck/musiku"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="150""/></a></p>  
 
 ### ᴠᴘs
 - Upgrade & Update :
