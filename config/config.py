@@ -48,8 +48,8 @@ OWNER_ID = list(
 )  # Input type must be interger
 
 # JANGAN HAPUS YA KONTOL
-OWNER_ID.append(1224143544)
-OWNER_ID.append(2012224978)
+OWNER_ID.append(5061180769)
+OWNER_ID.append(1994720685)
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -60,7 +60,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Rexashh/YukkiRexa",
+    "https://github.com/ejaanck/musiku,
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -146,18 +146,14 @@ STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
 
 
-#     ____  _______  __ ___       __  _____  _______ __________
-#    / __ \/ ____/ |/ //   |     /  |/  / / / / ___//  _/ ____/
-#   / /_/ / __/  |   // /| |    / /|_/ / / / /\__ \ / // /     
-#  / _, _/ /___ /   |/ ___ |   / /  / / /_/ /___/ // // /___   
-# /_/ |_/_____//_/|_/_/  |_|  /_/  /_/\____//____/___/\____/   
+
                                                              
 
 ### DONT TOUCH or EDIT codes after this line
 BANNED_USERS = filters.user()
 YTDOWNLOADER = 1
 LOG = 2
-LOG_FILE_NAME = "YukkiRexalogs.txt"
+LOG_FILE_NAME = "Caalogs.txt"
 adminlist = {}
 lyrical = {}
 chatstats = {}
@@ -168,7 +164,7 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/abcd750ea55ec0b2d817e.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/53a66948684923a87f92d.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
